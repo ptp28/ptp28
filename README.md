@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **ptp28/ptp28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```javascript
+const whoami = {
+    name: "Parth Parikh",
+    website: "ptp28.github.io",
+    askMeAbout: ["tech","tennis", "photography"],
+    technologies: {
+        languages: ["C / C++", "Java", "Python", "HTML", "CSS", "Javascript", "PHP", "Swift"],
+        mobileApp: ["Android", "iOS"],
+        frameworks: ["Django", "Flutter", "Spring"],
+        misc: ["Firebase", "Raspberry Pi"]
+    }
+```
