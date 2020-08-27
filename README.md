@@ -25,4 +25,5 @@ const whoami = {
         frameworks: ["Django", "Flutter", "Spring"],
         misc: ["Firebase", "Raspberry Pi"]
     }
+};
 ```
