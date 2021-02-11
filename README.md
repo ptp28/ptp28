@@ -20,7 +20,7 @@ const whoami = {
     website: "ptp28.github.io",
     askMeAbout: ["tech","tennis", "photography"],
     technologies: {
-        languages: ["C / C++", "Java", "Python", "HTML", "CSS", "Javascript", "PHP", "Swift"],
+        languages: ["C / C++", "Java", "Python", "HTML", "Javascript", "PHP", "Swift"],
         mobileApp: ["Android", "iOS"],
         frameworks: ["Django", "Flutter", "Spring"],
         misc: ["Firebase", "Raspberry Pi"]
