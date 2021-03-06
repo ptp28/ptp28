@@ -22,7 +22,7 @@ const whoami = {
     technologies: {
         languages: ["C / C++", "Java", "Python", "HTML", "Javascript", "PHP", "Swift"],
         mobileApp: ["Android", "iOS"],
-        frameworks: ["Django", "Flutter", "Spring"],
+        frameworks: ["Django", "Flutter", "Laravel", "Spring"],
         misc: ["Firebase", "Raspberry Pi"]
     }
 };
