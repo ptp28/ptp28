@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 const whoami = {
     name: "Parth Parikh",
     website: "ptp28.github.io",
-    askMeAbout: ["tech","tennis", "photography"],
+    askMeAbout: ["tech", "tennis", "photography"],
     technologies: {
         languages: ["C / C++", "Java", "Python", "HTML", "Javascript", "PHP", "Swift"],
         mobileApp: ["Android", "iOS"],
