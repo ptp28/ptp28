@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 const whoami = {
     name: "Parth Parikh",
     website: "https://ptp28.github.io",
-    linkedin: "https://www.linkedin.com/in/ptp/"
-    mail: "parthparikh28@outlook.com"
-    askMeAbout: ["tech", "tennis", "photography"],
+    linkedin: "https://www.linkedin.com/in/ptp/",
+    mail: "parthparikh28@outlook.com",
+    askMeAbout: ["tech", "tennis", "photography"]
 };
 ```
