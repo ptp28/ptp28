@@ -17,13 +17,9 @@ Here are some ideas to get you started:
 ```javascript
 const whoami = {
     name: "Parth Parikh",
-    website: "ptp28.github.io",
+    website: "https://ptp28.github.io",
+    linkedin: "https://www.linkedin.com/in/ptp/"
+    mail: "parthparikh28@outlook.com"
     askMeAbout: ["tech", "tennis", "photography"],
-    technologies: {
-        languages: ["C / C++", "Java", "Python", "HTML", "Javascript", "PHP", "Swift"],
-        mobileApp: ["Android", "iOS"],
-        frameworks: ["Django", "Flutter", "Laravel", "Spring"],
-        misc: ["Firebase", "Raspberry Pi"]
-    }
 };
 ```
